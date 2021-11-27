@@ -18,8 +18,8 @@ O funcionamento é bem simples, a tela inicial já mostra as opções de jogada 
 </p>
 
  <p align="center">
-  <img src="https://raw.github.com/AlineArj/JoKenPo/main/imagens/saida1.png" />
   <img src="https://raw.github.com/AlineArj/JoKenPo/main/imagens/saida2.png" />
+  <img src="https://raw.github.com/AlineArj/JoKenPo/main/imagens/saida1.png" />
 </p>
 
 Ao fim de uma partida você pode iniciar uma próxima ou sair, também é possível sair no meio de uma partida digitando __0__  no terminal.
