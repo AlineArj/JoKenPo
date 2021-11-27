@@ -29,4 +29,4 @@ Ao fim de uma partida você pode iniciar uma próxima ou sair, também é possí
 </p>
 
 ## Contribuições
-Sinta-se à vontade para relatar erros e/ou adicionar novas funcionalidades, isso contribui o crescimento de todos :)
+Sinta-se à vontade para relatar erros e/ou adicionar novas funcionalidades, isso contribui com o crescimento de todos :)
