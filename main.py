@@ -10,6 +10,22 @@ def Opcoes():
     print("[{}0{}] - Finalizar partida\n".format(cores['branco'], cores['limpa']))
 
 
+def Validacao():  # Vai validar se a jogada é um numero
+
+    while True:
+        x = input("Sua jogada: ")
+
+        if x.isnumeric() is True:
+            x_int = int(x)
+            return x_int
+
+        else:
+            print('')
+            print((f"{cores['azul']}-{cores['limpa']}" * 65))
+            print("Jogada inválida! [1 - Pedra / 2 - Papel / 3 - Tesoura / 0 - Sair]")
+            print((f"{cores['azul']}-{cores['limpa']}" * 65))
+
+
 def JogadaUser(cont_partida, cont_rodada, lim):
     print('')
     sleep(0.5)
@@ -18,7 +34,7 @@ def JogadaUser(cont_partida, cont_rodada, lim):
     print("{}*****{}".format(cores['azul'], cores['limpa']))
 
     while True:
-        jogUser = int(input('Sua jogada: '))
+        jogUser = Validacao()
         print('')
 
         # Convertendo o comando do usuário
