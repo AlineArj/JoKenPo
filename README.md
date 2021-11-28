@@ -3,14 +3,14 @@
 Programa feito em Python que simula uma partida de Pedra, Papel e Tesoura. 
 
 
-## Instalação
+## 👾 Instalação
 ```
 $ git clone https://github.com/AlineArj/JoKenPo.git
 $ cd JokenPo
 $ python3 main.py
 ```
 
-## Terminal 
+## 🖥 Terminal 
 O funcionamento é bem simples, a tela inicial já mostra as opções de jogada (a escolha da máquina é totalmente randomizada). Cada partida possui 3 rodadas, como mostra os exemplos abaixo.
  
  <p align="center">
@@ -28,5 +28,5 @@ Ao fim de uma partida você pode iniciar uma próxima ou sair, também é possí
   <img src="https://raw.github.com/AlineArj/JoKenPo/main/imagens/reiniciar.png" />
 </p>
 
-## Contribuições
+## 🤝 Contribuições
 Sinta-se à vontade para relatar erros e/ou adicionar novas funcionalidades, isso contribui com o crescimento de todos :)
