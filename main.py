@@ -16,8 +16,8 @@ def Validacao():  # Vai validar se a jogada é um numero
         x = input("Sua jogada: ")
 
         if x.isnumeric() is True:
-            x_int = int(x)
-            return x_int
+            x = int(x)
+            return x
 
         else:
             print('')
