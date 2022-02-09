@@ -1,6 +1,6 @@
 # Pedra, Papel e Tesoura
 
-![GitHub](https://img.shields.io/github/license/AlineArj/JoKenPo)
+![GitHub](https://img.shields.io/github/license/AlineArj/JoKenPo?color=blue&style=for-the-badge)
 
 Programa feito em Python que simula uma partida de Pedra, Papel e Tesoura. 
 
