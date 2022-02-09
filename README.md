@@ -6,10 +6,11 @@ Programa feito em Python que simula uma partida de Pedra, Papel e Tesoura.
 
 
 ## 👾 Instalação
-```
+```bash
 $ git clone https://github.com/AlineArj/JoKenPo.git
 $ cd JokenPo
-$ python3 main.py
+$ python3 
+$ main.py
 ```
 
 ## 🖥 Terminal 
